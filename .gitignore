@@ -160,3 +160,6 @@ cython_debug/
 #.idea/
 
 chap6/text/
+chap6/lightning_logs/
+chap6/model/
+chap6/model_transformers/
